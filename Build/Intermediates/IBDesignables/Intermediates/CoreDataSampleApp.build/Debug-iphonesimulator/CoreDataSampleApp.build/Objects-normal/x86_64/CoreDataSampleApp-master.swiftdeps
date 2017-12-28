@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "44d7eab738f97f2e395142cde131806b"
+build_time: [567770628, 225018000]
+inputs:
+  "/Users/apple-1/Downloads/CoreData-Custom-view-using-.Xib-design-master/CoreDataSampleApp/testViewController.swift": [567695243, 0]
+  "/Users/apple-1/Downloads/CoreData-Custom-view-using-.Xib-design-master/CoreDataSampleApp/AppDelegate.swift": [564443290, 0]
+  "/Users/apple-1/Downloads/CoreData-Custom-view-using-.Xib-design-master/CoreDataSampleApp/customview.swift": [567769922, 0]
+  "/Users/apple-1/Downloads/CoreData-Custom-view-using-.Xib-design-master/Build/Intermediates/IBDesignables/Intermediates/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Task+CoreDataClass.swift": [567770628, 0]
+  "/Users/apple-1/Downloads/CoreData-Custom-view-using-.Xib-design-master/Build/Intermediates/IBDesignables/Intermediates/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Task+CoreDataProperties.swift": [567770628, 0]
+  "/Users/apple-1/Downloads/CoreData-Custom-view-using-.Xib-design-master/Build/Intermediates/IBDesignables/Intermediates/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/CoreDataSampleApp+CoreDataModel.swift": [567770627, 0]
